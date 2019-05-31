@@ -1,3 +1,3 @@
-module github.com/techwraith/now-go-test-case
+module github.com/techwraith/staff.sh
 
 go 1.12

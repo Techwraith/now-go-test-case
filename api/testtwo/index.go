@@ -1,4 +1,4 @@
-package handlertwo
+package handletwo
 
 import (
 	"net/http"
